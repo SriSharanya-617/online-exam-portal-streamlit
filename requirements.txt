@@ -1,0 +1,8 @@
+streamlit
+supabase
+httpx
+postgrest
+realtime
+storage3
+supabase-auth
+supabase-functions
